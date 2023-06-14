@@ -1,6 +1,6 @@
 # Autor: ❤🚀❤ Vitor de Jesus ❤🚀❤
 # Data: 14/06/2023 
-# Titulo: Projeto Conexao com DB
+# Titulo: Projeto model.Conexao com DB
 
 CREATE DATABASE db_java;
 USE `db_java`;
